@@ -2,6 +2,8 @@
 
 ## Introduction
 This project highlights the process of creating and maintaining an ETL Pipeline using Azure resources like Data Factory, Data lake, Databricks, Synapse; Tools like Apache sparks, Power BI, Clusters, etc...
+
+Primary Language used was Python.
 ### Dataset
 Primary data set used for this project is adventure works that contains a relatively large amount of data with tables such as:
  - Sales
