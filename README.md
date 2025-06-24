@@ -11,7 +11,7 @@ Primary data set used for this project is adventure works that contains a relati
  - Products
  - Sub Products
  - Territories
- - Calendar\
+ - Calendar
 
 Link: https://www.kaggle.com/datasets/ukveteran/adventure-works
 
